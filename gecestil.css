@@ -1,0 +1,103 @@
+body {
+  background-color: #333333;
+}
+h1{
+  margin-bottom: 3px;
+  margin-left: 10px;
+  font-family: roboto;
+  color:White;
+
+}
+.cubuk
+{
+margin-top: -8px;
+  width: 150px;
+  height: 5px;
+  background-color: #9933cc;
+  margin-bottom: 10px;
+}
+
+.menu ul{
+
+display: inline-flex;
+margin: 50px;
+float: right;
+
+
+}
+.menu ul li{
+    font-family: Arial;
+    font-weight: lighter;
+  width: 120px;
+  height: 20px;
+list-style: none;
+margin:0 10px;
+color: white;
+cursor: pointer;
+border:2px;
+border-color: white;
+border-radius: 6px;
+border-style: solid;
+padding: 5px;
+text-align: center;
+}
+.menu:hover{
+  color: white !important;
+  border-color: #9933cc !important;
+  background-color: #9933cc !important;
+
+}
+.active{
+color: white !important;
+border-color: #9933cc !important;
+background-color: #9933cc !important;
+
+}
+.Bahnschrift
+{
+  margin-top: -3px;
+  margin-left: 14px;
+  font-family: Bahnschrift;
+font-size:11px;
+color:white;
+
+}
+.yazi{
+    font-family: Arial;
+top:25%;
+left:20px;
+position: absolute;
+color:black;
+margin-top: 50px;
+color:white;
+}
+.logo{
+  float: right;
+  width: 100%;
+  margin-right: 100px;
+  margin-top: 50px;
+
+}
+.logo img{
+  width: 20%;
+  margin-top: 15px;
+
+  float: right
+}
+.sosyalmedya img{
+margin-top: 20px;
+  width: 14%;
+  margin-right: 20px;
+}
+.mod
+{
+top:85%;
+position: absolute;
+margin-left: 45%
+
+}
+.mod img
+{
+width: 80px;
+
+}
